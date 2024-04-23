@@ -28,3 +28,6 @@ public:
 		cout << "SKS: ";
 		cin >> sks;
 	}
+
+	void output() {
+		cout << "Kode MK: " << kodeMk << endl;
