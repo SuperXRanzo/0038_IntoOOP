@@ -13,3 +13,9 @@ public: // akses modifier
 		cout << "Jurusan: " << jurusan << endl;
 	}
 };
+
+class Matakuliah {
+private:
+	string kodeMk;
+	string namaMk;
+	int sks;
